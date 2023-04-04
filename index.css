@@ -1,0 +1,22 @@
+.firstsection {
+    display : grid ;
+    grid-template-columns: auto auto ;
+}
+#secondsection{
+    background-color: blanchedalmond;
+    padding: 10px;
+}
+section{
+    background-color: black;
+    width: 600px;
+    padding: 10px;
+    color: aliceblue;
+}
+button:hover{
+    background-color: rgb(66, 125, 227);
+    color: aliceblue;
+}
+ul{
+    list-style: none;
+    line-height: 2;
+}
